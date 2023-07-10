@@ -378,7 +378,7 @@ button:hover
     width: 80%;
     animation: c 2s;
 }
-@keyframes mysql {
+@keyframes c {
     0%{
         width: 0%;
     }100%{
